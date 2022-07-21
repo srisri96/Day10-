@@ -1,0 +1,2 @@
+﻿using Parttime;
+Part.Emppart();
