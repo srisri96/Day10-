@@ -1,0 +1,2 @@
+﻿using EmpWage;
+Empchk.Emppresent();
