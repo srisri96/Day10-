@@ -1,0 +1,2 @@
+﻿using Employeewage;
+Empwage.Emp();
